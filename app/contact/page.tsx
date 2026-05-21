@@ -24,7 +24,7 @@ export default function ContactPage() {
             <h1 className="mt-4 font-display text-4xl font-bold text-white sm:text-5xl">
               Let's talk about your project.
             </h1>
-            <p className="mt-4 text-white/60">Reach out and we'll get back to you within 24 hours.</p>
+            <p className="mt-4 text-white/60">Reach out and we&#39;ll get back to you within 24 hours.</p>
           </div>
         </section>
 

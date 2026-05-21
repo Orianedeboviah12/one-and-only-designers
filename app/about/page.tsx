@@ -76,7 +76,7 @@ export default function AboutPage() {
         <section className="py-20">
           <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
             <h2 className="font-display text-3xl font-bold text-brand-black">Want to work with us?</h2>
-            <p className="mt-4 text-brand-black/60">Book a session or reach out — we'd love to hear about your project.</p>
+            <p className="mt-4 text-brand-black/60">Book a session or reach out — we&#39;d love to hear about your project.</p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <Link href="/bookings" className="rounded-full bg-brand-green px-6 py-3 text-sm font-semibold text-white transition hover:bg-brand-green-light">
                 Book Now

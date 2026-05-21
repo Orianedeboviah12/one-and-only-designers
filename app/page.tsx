@@ -61,7 +61,7 @@ export default function Home() {
         <section className="bg-brand-green py-20">
           <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
             <h2 className="font-display text-3xl font-bold text-white sm:text-4xl">Ready to start your project?</h2>
-            <p className="mt-4 text-white/75">Book a session with our team and let's bring your vision to life.</p>
+            <p className="mt-4 text-white/75">Book a session with our team and let&apos;s bring your vision to life.</p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <Link href="/bookings" className="rounded-full bg-white px-6 py-3 text-sm font-semibold text-brand-green transition hover:bg-white/90">
                 Book Now

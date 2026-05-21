@@ -77,7 +77,7 @@ export default function PaymentsPage() {
             </div>
             <h1 className="mt-6 font-display text-3xl font-bold text-brand-black">Payment Submitted!</h1>
             <p className="mt-4 text-brand-black/60">
-              Your payment via <strong>{methods.find(m => m.id === method)?.name}</strong> has been received. We'll confirm your booking shortly.
+              Your payment via <strong>{methods.find(m => m.id === method)?.name}</strong> has been received. We&apos;ll confirm your booking shortly.
             </p>
             <a href="/" className="mt-8 inline-flex rounded-full bg-brand-green px-6 py-3 text-sm font-semibold text-white hover:bg-brand-green-light transition">
               Back to Home
@@ -181,7 +181,7 @@ export default function PaymentsPage() {
                 {method === "cash" && (
                   <div className="rounded-2xl bg-brand-green/5 border border-brand-green/20 p-5">
                     <p className="text-sm text-brand-black/70 leading-relaxed">
-                      You've selected <strong>Cash on Delivery</strong>. Our team will contact you to arrange payment at the time of service delivery. No advance payment is needed.
+                      You&apos;ve selected <strong>Cash on Delivery</strong>. Our team will contact you to arrange payment at the time of service delivery. No advance payment is needed.
                     </p>
                   </div>
                 )}

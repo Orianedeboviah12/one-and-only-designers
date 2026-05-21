@@ -76,7 +76,7 @@ export default function ServicesPage() {
         <section className="bg-brand-green py-20">
           <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
             <h2 className="font-display text-3xl font-bold text-white sm:text-4xl">Not sure what you need?</h2>
-            <p className="mt-4 text-white/75">Talk to us and we'll find the right solution for your project.</p>
+            <p className="mt-4 text-white/75">Talk to us and we&apos;ll find the right solution for your project.</p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <Link href="/bookings" className="rounded-full bg-white px-6 py-3 text-sm font-semibold text-brand-green hover:bg-white/90 transition">
                 Book a Consultation

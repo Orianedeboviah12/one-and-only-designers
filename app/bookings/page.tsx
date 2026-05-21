@@ -83,7 +83,7 @@ export default function BookingsPage() {
             <h1 className="mt-4 font-display text-4xl font-bold text-white sm:text-5xl">
               Let's create something together.
             </h1>
-            <p className="mt-4 text-white/60">Choose your service, pick a date and time, and we'll take it from there.</p>
+            <p className="mt-4 text-white/60">Choose your service, pick a date and time, and we&#39;ll take it from there.</p>
           </div>
         </section>
 
